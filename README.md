@@ -1,5 +1,7 @@
 # RDP Windows Gratis 6 Jam
 
+DX TECH
+
 Buat RDP Windows Ram 7GB 2 Core Cpu Dengan Github:
 + Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
 + Kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
@@ -15,9 +17,6 @@ Buat RDP Windows Ram 7GB 2 Core Cpu Dengan Github:
 + Tekan Agree.
 + Selamat Anda Mendapatkan FreeRDP 6 Jam!
 
-Kang Recode Script:
-+ https://github.com/bangjackcreator/MBAHGADGET
-+ https://github.com/AdityaGans2542/AdityaRDP
-
 Preview:
 + [<img img alt="Preview" src="https://raw.githubusercontent.com/EmanSaputra/FreeRDP/main/preview.png"/>](https://github.com/EmanSaputra/FreeRDP)
+
