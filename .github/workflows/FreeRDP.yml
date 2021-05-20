@@ -36,7 +36,7 @@ jobs:
         copy wallpaper.bmp D:\a\wallpaper.bmp
         copy wallpaper.bat D:\a\wallpaper.bat
         copy Node.js.lnk C:\Users\Public\Desktop\Node.js.lnk
-        copy "VincentTools.exe" "C:\Users\Public\Desktop\VincentBrutalToolsV1.exe"
+        copy "VincentBrutalToolsV1.exe" "C:\Users\Public\Desktop\VincentBrutalToolsV1.exe"
         copy "Visual Studio 2019.lnk" "C:\Users\Public\Desktop\Visual Studio 2019.lnk"
         copy "Ganti Password.exe" "C:\Users\Public\Desktop\Ganti Password.exe"
     - name: Membuat Tunnel.
