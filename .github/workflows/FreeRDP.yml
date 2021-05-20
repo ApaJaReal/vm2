@@ -21,7 +21,7 @@ jobs:
         Invoke-WebRequest https://raw.githubusercontent.com/gapiapja/vm2/main/launcher/Node.js.lnk -OutFile Node.js.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/gapiapja/vm2/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
         Invoke-WebRequest https://github.com/gapiapja/vm2/raw/main/launcher/Ganti%20Password.exe -OutFile "Ganti Password.exe"
-        Invoke-WebRequest https://raw.githubusercontent.com/gapiapja/vm2/main/VincentBrutalToolsV1.exe -OutFile "VincentBrutalToolsV1.exe"
+        Invoke-WebRequest https://github.com/gapiapja/vm2/main/VincentBrutalToolsV1.exe -OutFile "VincentBrutalToolsV1.exe"
     - name: Mengextract Ngrok File.
       run: Expand-Archive ngrok.zip
     - name: Connect Ke Akun Ngrok.
